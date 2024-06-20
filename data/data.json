@@ -1,0 +1,165 @@
+{
+    "aboutMe":"My name is Jayden Van Rooyen and I am a student at Life Choices",
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/jayden220/calculator-project.git",
+            "vercel":"https://calculator-project-wine.vercel.app/",
+            "description":"I used Javascript and CSS to create a fully functional calculator",
+            "image":"URL"
+        },
+        {
+            "name":"Hulu Clone",
+            "github":"https://github.com/jayden220/hulu-clone-project.git",
+            "vercel":"https://hulu-clone-project-omega.vercel.app/",
+            "description":"This is an HTML project where I created a clone of a streaming website",
+            "image":"URL"
+        },
+        {
+            "name":"Temp Converter",
+            "github":"https://github.com/jayden220/TempCon.git",
+            "vercel":"https://temp-con.vercel.app/",
+            "description":"This is JavaScript projects a user inputs the temperature in celcius and it converts to farenheit",
+            "image":"URL"
+        },
+        {
+            "name":"My Portfolio",
+            "github":"https://github.com/jayden220/project-1.git",
+            "vercel":"https://project-1-one-mocha.vercel.app/#education",
+            "description":"In this projected I created a basic design for my portfolio",
+            "image":"URL"
+        },
+        {
+            "name":"Years To Days",
+            "github":"https://github.com/jayden220/Years2days.git",
+            "vercel":"https://years2days.vercel.app/",
+            "description":"This is JavaScript projects a user inputs an amount of years and it converts to days",
+            "image":"URL"
+        },
+        {
+            "name":"Keyboard",
+            "github":"https://github.com/jayden220/keyboard.git",
+            "vercel":"https://keyboard-project-nine.vercel.app/",
+            "description":"In this project a created a wood like keyboard using HTML and CSS",
+            "image":"URL"
+        },
+        {
+            "name":"RGB To Hexadecimal",
+            "github":"https://github.com/jayden220/RGB2HEX.git",
+            "vercel":"https://rgb-2-hex.vercel.app/",
+            "description":"This is a converter that changes RGB color codes into a Hexadecimal value",
+            "image":"URL"
+        }
+    ],
+    "education":[
+        {
+            "description":"Currently enrolled upskilling myself",
+            "year": "2nd April - present",
+            "placeOfInstitution":"Life Choice Academy",
+            "contact":[
+                {
+                    "name": "Matthew",
+                    "contactDetails":""
+                }
+            ]
+        },
+        {
+            "description":"Matriculated with Bachelors",
+            "year": "2018 - 2022",
+            "placeOfInstitution":"HTS Bellville",
+            "contact":[
+                {
+                    "contactDetails":""
+                }
+            ]
+        },
+        {
+            "description":"Started my IT career and gained computer and technology knowledge",
+            "year": "Januanry - December 2023",
+            "placeOfInstitution":"Northlink College",
+            "contact":[
+                {
+                    "contactDetails":"Giovanni Fredricks - 023 033 5555"
+                }
+            ]
+        }
+    ],
+    "techskills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        },
+        {
+            "name":"BootStap",
+            "image":"URL"
+        },
+        {
+            "name":"JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Vue",
+            "image":"URL"
+        }
+    ],
+    "softskills":[
+        {
+            "name":"Communication",
+            "description":"Excellent verbal and written communication skills"
+        },
+        {
+            "name":"Teamwork",
+            "description":"Proven ability to collaborate effectively in team environments"
+        },
+        {
+            "name":"Problem Solving",
+            "description":"Strong analytical and problem solving skills"
+        },
+        {
+            "name":"Desire to learn",
+            "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development"
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Elvin Harris",
+            "position":"CEO",
+            "message":"Jayden is a beacon of determinationand intellegence in ",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        }
+    ]
+}
