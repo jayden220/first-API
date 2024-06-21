@@ -1,6 +1,7 @@
-{"data":[
-    {"aboutMe":"My name is Jayden Van Rooyen and I am a student at Life Choices"},
-    {"projects":[
+
+{
+    "aboutMe":"My name is Jayden Van Rooyen and I am a student at Life Choices",
+    "projects":[
         {
             "name":"Calculator",
             "github":"https://github.com/jayden220/calculator-project.git",
@@ -50,8 +51,8 @@
             "description":"This is a converter that changes RGB color codes into a Hexadecimal value",
             "image":"URL"
         }
-    ]},
-    {"education":[
+    ],
+    "education":[
         {
             "description":"Currently enrolled upskilling myself",
             "year": "2nd April - present",
@@ -83,8 +84,8 @@
                 }
             ]
         }
-    ]},
-    {"techskills":[
+    ],
+    "techskills":[
         {
             "name":"HTML",
             "image":"URL"
@@ -105,8 +106,8 @@
             "name":"Vue",
             "image":"URL"
         }
-    ]},
-    {"softskills":[
+    ],
+    "softskills":[
         {
             "name":"Communication",
             "description":"Excellent verbal and written communication skills"
@@ -123,8 +124,8 @@
             "name":"Desire to learn",
             "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development"
         }
-    ]},
-    {"testimonials":[
+    ],
+    "testimonials":[
         {
             "name":"Elvin Harris",
             "position":"CEO",
@@ -161,5 +162,5 @@
             "message":"",
             "image":"URL"
         }
-    ]}
-]}
+    ]
+}
